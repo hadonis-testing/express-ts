@@ -1,2 +1,3 @@
-# express-ts
-ExpressJS with TypeScript
+# Express + TypeScript
+
+> ExpressJS with TypeScript
